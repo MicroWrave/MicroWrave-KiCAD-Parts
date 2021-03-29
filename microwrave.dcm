@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACDA02-41SURKWA-F01
+F https://www.kingbrightusa.com/images/catalog/SPEC/ACDA02-41SURKWA-F01.pdf
+$ENDCMP
+#
+$CMP HV509K6-G
+D 16 Channel shift-register
+K shift-register, HV509K6-G, HV528K6-G
+F https://ww1.microchip.com/downloads/en/DeviceDoc/hv509.pdf
+$ENDCMP
+#
+#End Doc Library
